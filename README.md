@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <a href="www.linkedin.com/in/ali-amr-61219327a" target="_blank">
+  <a href="https://www.linkedin.com/in/ali-amr-61219327a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="https://github.com" target="_blank">
@@ -89,7 +89,7 @@
 ### 🌐 Connect With Me
 
 <div align="left">
-  <a href="https://linkedin.com/Ali-Amr" target="_blank">
+  <a href="https://www.linkedin.com/in/ali-amr-61219327a" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
   </a>
 </div>
